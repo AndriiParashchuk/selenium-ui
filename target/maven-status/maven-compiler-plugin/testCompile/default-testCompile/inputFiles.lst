@@ -1,0 +1,10 @@
+/Users/andriiparashchuk/DevXschool/selenium-ui-framework/src/test/java/stepdefs/LoginSteps.java
+/Users/andriiparashchuk/DevXschool/selenium-ui-framework/src/test/java/stepdefs/SignUpSteps.java
+/Users/andriiparashchuk/DevXschool/selenium-ui-framework/src/test/java/pages/BasePage.java
+/Users/andriiparashchuk/DevXschool/selenium-ui-framework/src/test/java/stepdefs/Hooks.java
+/Users/andriiparashchuk/DevXschool/selenium-ui-framework/src/test/java/pages/SignUpSecondPage.java
+/Users/andriiparashchuk/DevXschool/selenium-ui-framework/src/test/java/pages/SignUpFirstPage.java
+/Users/andriiparashchuk/DevXschool/selenium-ui-framework/src/test/java/pages/HomePage.java
+/Users/andriiparashchuk/DevXschool/selenium-ui-framework/src/test/java/pages/RegisterPage.java
+/Users/andriiparashchuk/DevXschool/selenium-ui-framework/src/test/java/utilities/DriverUtilities.java
+/Users/andriiparashchuk/DevXschool/selenium-ui-framework/src/test/java/pages/LoginPage.java
